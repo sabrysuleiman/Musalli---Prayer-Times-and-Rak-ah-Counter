@@ -1,0 +1,6 @@
+{
+  "name": "مُصلّي - مواقيت الصلاة وعداد الركعات",
+  "description": "تطبيق مواقيت الصلاة الدقيقة والتنبيهات، مع عداد ذكي للركعات والسجدات لتيسير الخشوع والتركيز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

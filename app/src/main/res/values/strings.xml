@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">مُصلّي</string>
+    <string name="nav_prayer_times">مواقيت الصلاة</string>
+    <string name="nav_quran_ward">الورد القرآني</string>
+    <string name="nav_rakah_counter">عداد الركعات</string>
+    <string name="nav_azkar">الأذكار</string>
+    <string name="nav_qibla">القبلة</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Prayers -->
+    <string name="prayer_fajr">الفجر</string>
+    <string name="prayer_sunrise">الشروق</string>
+    <string name="prayer_dhuhr">الظهر</string>
+    <string name="prayer_asr">العصر</string>
+    <string name="prayer_maghrib">المغرب</string>
+    <string name="prayer_isha">العشاء</string>
+    <string name="prayer_jummah">الجمعة</string>
+    <string name="prayer_qiyam">قيام الليل</string>
+    <string name="prayer_witr">الوتر</string>
+
+    <!-- Counter -->
+    <string name="counter_title">مُعين الخشوع والركعات</string>
+    <string name="counter_subtitle">أداة تعينك على ضبط صلاتك وتجنب السهو والنسيان</string>
+    <string name="rakah_number">الركعة</string>
+    <string name="sajdah_number">السجدة</string>
+    <string name="start_prayer">ابدأ الصلاة</string>
+    <string name="finish_prayer">إنهاء الصلاة</string>
+    <string name="reset_counter">إعادة ضبط</string>
+    <string name="undo_touch">تراجع</string>
+    <string name="tap_instruction">المس في أي مكان عند إتمام الركعة</string>
+    <string name="screen_active_hint">الشاشة في وضع النشاط الدائم أثناء الصلاة</string>
+    <string name="prayer_completed">تقبل الله طاعتكم وبارك في صلاتكم</string>
+    <string name="tashahhud_first">الجلوس للتشهد الأول</string>
+    <string name="tashahhud_last">الجلوس للتشهد الأخير والتسليم</string>
+
+    <!-- Notifications & Location -->
+    <string name="notification_channel_name">تنبيهات مواقيت الصلاة</string>
+    <string name="notification_channel_desc">إشعارات عند دخول وقت كل صلاة</string>
+    <string name="location_detecting">جاري تحديد الموقع…</string>
+    <string name="location_permission_needed">يرجى السماح بالوصول للموقع لتحديد مواقيت الصلاة بدقة</string>
+    <string name="request_location_btn">تفعيل الموقع</string>
+    <string name="select_city">اختر مدينتك يدوياً</string>
+    <string name="next_prayer_in">الصلاة القادمة بعد</string>
+
+    <!-- DND and Sounds -->
+    <string name="dnd_title">وضع عدم الإزعاج</string>
+    <string name="dnd_active">وضع عدم الإزعاج نشط</string>
+    <string name="dnd_bypass_fajr">استثناء صلاة الفجر</string>
+    <string name="dnd_cancel">إلغاء وضع عدم الإزعاج</string>
+    <string name="sound_customization_title">تخصيص نغمات الصلاة</string>
+</resources>
